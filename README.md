@@ -1,4 +1,4 @@
-# Giriraj Portfolio
+# Giriraj Portfolio (https://giriraj-portfolio-7vgt.vercel.app) 
 
 A minimal, responsive developer portfolio built with Next.js and Tailwind CSS, inspired by Brittany Chiang's design.
 
